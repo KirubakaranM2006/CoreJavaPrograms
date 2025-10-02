@@ -1,7 +1,13 @@
-# Ignore CSS/HTML/XML for GitHub language stats
-*.css linguist-vendored
+# Ignore non-Java code in language stats
+*.js linguist-vendored
 *.html linguist-vendored
+*.css linguist-vendored
 *.xml linguist-vendored
+*.json linguist-vendored
+*.md linguist-vendored
+*.sh linguist-vendored
+*.bat linguist-vendored
+*.txt linguist-vendored
 
-# Force detection of Java
+# Force .java files to count toward language stats
 *.java linguist-detectable=true
