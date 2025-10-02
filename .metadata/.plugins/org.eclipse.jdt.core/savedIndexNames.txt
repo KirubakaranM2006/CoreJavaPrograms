@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\Hp\Desktop\javalrng\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+4278355988.index
+3413270776.index

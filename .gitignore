@@ -1,1 +1,52 @@
-/.metadata/
+# ============================
+# Windows system files
+# ============================
+Thumbs.db
+desktop.ini
+
+# ============================
+# Java compiled class files
+# ============================
+*.class
+
+# ============================
+# Java archives
+# ============================
+*.jar
+*.war
+*.ear
+
+# ============================
+# IDE-specific files
+# ============================
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code
+.vscode/
+
+# NetBeans
+nbproject/
+
+# ============================
+# Logs and temporary files
+# ============================
+*.log
+*.tmp
+*.bak
+*.swp
+
+# ============================
+# Other
+# ============================
+/bin/
+/target/
+/out/
